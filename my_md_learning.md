@@ -44,4 +44,7 @@ the \`\`\` pair can also be used in an single line: ``` there is a ` in the code
 - [x] Task 2
 - [ ] task 3
 
+get a picture:<br>
+![a test image](media/image2.png "A")
+
 I learn this from [github doc](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
